@@ -1,0 +1,12 @@
+my:
+  boolean:
+    value: false
+
+---
+spring:
+  config:
+    activate:
+      on-profile: jaz
+my:
+  boolean:
+    value: true

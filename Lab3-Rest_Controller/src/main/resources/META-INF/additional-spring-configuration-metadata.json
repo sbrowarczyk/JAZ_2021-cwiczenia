@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "my.custom.property",
+      "type": "java.lang.String",
+      "description": "Description for my.custom.property."
+    },
+    {
+      "name": "my.boolen.value",
+      "type": "java.lang.String",
+      "description": "Description for my.boolen.value."
+    }
+  ]
+}
